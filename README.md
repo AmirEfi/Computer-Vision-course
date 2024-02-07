@@ -1,2 +1,3 @@
 # Computer-Vision-course
-Fundamentals of Computer Vision course - Fall 2023
+## Fundamentals of Computer Vision course - Fall 2023
+This repository is for two homework and final project of the Computer Vision course.
